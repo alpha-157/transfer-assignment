@@ -4,3 +4,4 @@
 
 *Weaknesses*
 - Hard to learn as a newcommer 
+- Git does not work that good with binary files
